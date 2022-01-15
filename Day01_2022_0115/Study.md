@@ -13,3 +13,8 @@ ECMAScript
 2. DOM
 3. XMLHttpRequest : 서버와 비동기 통신 기능 제공
 
+---
+code
+웹, console
+
+shift + enter 코드연속작성
