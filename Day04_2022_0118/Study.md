@@ -1,7 +1,37 @@
-## **Date 생성자**
+## **대화상자**
 
-var now = new Date();
-객체 생성사는 첫글자가 대문자
+경고창 세가지
+window.alert
+window.prompt
+window.confirm
+
+---
+## **Console**
+
+Console객체는 동작확인과 디버깅에 자주 사용
+
+---
+## **Event**
+
+p.172
+이벤트 처리기 등록 방법 및 타이틀
+
+이벤트 처리기로 등록하는 방법은 세가지
+1. HTML요소의 속성으로 등록
+2. DOM요소의 프로퍼티로 등록
+3. addEventListener 매서드 등록
+
+---
+## **DOM##
+
+DOM
+Document Object Model
+자바스크립트 등의 프로그램이 HTML요소를 조작할 수 있게 하는 인터페이스
+
+window 객체
+ㅇ
+
+
 
 ---
 ## **전역객체**
